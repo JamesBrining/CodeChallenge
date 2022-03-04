@@ -1,0 +1,58 @@
+/* Our styles - please don't touch :) */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+form {
+  margin: 20px;
+}
+header {
+  width: 100%;
+  padding: 21px 0;
+  top: 0;
+  z-index: 100;
+  background: #1357a2;
+  background: linear-gradient(105deg, #1357a2 0%, #a11357 100%);
+  color: #fff;
+  display: flex;
+}
+header img {
+  max-height: 150px;
+  max-width: 105px;
+  margin: 0 20px;
+}
+header h1 {
+  margin-left: 20px;
+}
+h3 {
+  background-color: rgb(244, 244, 244);
+  padding: 20px;
+  margin-top: 0;
+}
+article {
+  margin: 20px;
+}
+.form {
+  margin-top: 20px;
+}
+.form .form-item {
+  display: flex;
+}
+.form .form-item label {
+  flex: 1;
+  max-width: 100px;
+}
+.form .form-item input {
+  flex: 1;
+  max-width: 200px;
+}
+.list-image {
+  max-width: 150px;
+  margin-left: 34px;
+}
+.red-text {
+  color: red;
+}
+/* End our styles*/
+
+/********** Your styles below here ***********/
